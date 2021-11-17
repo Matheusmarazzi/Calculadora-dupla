@@ -1,0 +1,70 @@
+/* This is a CSS file */
+.botao{
+  width: 70px;
+  height: 70px;
+  margin: 5px;
+}
+.ope{
+  width: 70px;
+  height: 70px;
+  margin: 5px;
+}
+.tn{
+  width: 70px;
+  height: 70px;
+  margin: 5px;
+}
+#limpar{
+  margin-top: 50px;
+  margin-left: 10px;
+}
+#emoji{
+  width: 130px;
+  height: 130px;
+  margin-left: 80px;
+  border: solid turquoise 5px;
+}
+label{
+  font-size: 12;
+  font: times;
+  color: white;
+}
+.fundo{
+background-color: black;
+}
+input{
+  background-color: gray;
+  width: 40%;
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+#raiocal{
+  margin-left: 3vh;
+}
+#diamcal{
+  margin-left: 3vh;
+}
+.result{
+  background-color: white;
+  border: solid rgb(104, 203, 248) 6px; 
+  width: 80%;
+  margin-left: 10%; 
+  height: 8vh;
+  margin-top:auto;
+
+}
+#circle{
+  margin-top: 38%;
+  width: 230px;
+  height: 230px;
+  margin-left: 20%;
+  border: solid blue 7px;
+  float: left;
+}
+.re{
+  float: left;
+}
